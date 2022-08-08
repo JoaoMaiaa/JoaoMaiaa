@@ -4,7 +4,7 @@
 - 💻 Conhecimento em Backend.
 - 🚀 Atualmente faço projetos, seja atuando em grupo ou individual.
 - 👨🏻‍💻 Todos os meus projetos estão disponíveis em [João Maia](https://joaomaia.vercel.app)
-- 🎆 Projeto destaque [https://authentication-roan.vercel.app/]()
+- 🎆 Projeto destaque [Pro Auth](https://authentication-roan.vercel.app/)
 - ▶️ Blog sobre nextjs [ 🚨 blog em construção 🚨 ]()
 - 🔨 Interesse por ReactJs e Chakra-UI
 <br><br>
