@@ -3,7 +3,7 @@
 - 🔥 Desenvolvedor Frontend Jr.
 - 💻 Conhecimento em Backend.
 - 🚀 Atualmente faço projetos, seja atuando em grupo ou individual.
-- 👨🏻‍💻 Todos os meus projetos estão disponíveis em [https://joaomaia.vercel.app]()
+- 👨🏻‍💻 Todos os meus projetos estão disponíveis em [João Maia](https://joaomaia.vercel.app)
 - 🎆 Projeto destaque [https://authentication-roan.vercel.app/]()
 - ▶️ Blog sobre nextjs [ 🚨 blog em construção 🚨 ]()
 - 🔨 Interesse por ReactJs e Chakra-UI
